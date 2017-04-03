@@ -1,0 +1,27 @@
+Execute the pro1.c program
+
+Get the Host Name(or IP address) from user
+
+Verify the Host Address
+
+Get the username and password from user and login
+
+Provides a list of options for the user
+
+Allow Users to select the file from their Computer
+
+Show all the files in computer
+
+Select all the files and zip the files.
+
+If Zip successfull, Open Data Connection.
+
+Upload the zip file into the server.
+
+If Successfully uploaded,Establish SSH connection.
+
+Unzip the uploaded file.
+
+Remove the zip file from server.
+
+
